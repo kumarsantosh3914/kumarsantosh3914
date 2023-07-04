@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/santosh kumar" target="blank"><img src="https://img.shields.io/twitter/follow/santosh kumar?logo=twitter&style=for-the-badge" alt="santosh kumar" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 📝 I regularly write articles on [https://santosh15.hashnode.dev/](https://santosh15.hashnode.dev/)
 

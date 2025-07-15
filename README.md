@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I'm currently learning **Next.js**
 - 📝 I regularly write articles on [Hashnode](https://santosh15.hashnode.dev/)
 
 ---
@@ -67,6 +67,9 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://golang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />

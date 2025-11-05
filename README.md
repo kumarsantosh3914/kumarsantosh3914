@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Santosh Kumar
 
-<h3 align="center">A Software Development Engineer with 1+ years of experience, passionate about building scalable and efficient applications.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<h3 align="center">A Software Development Engineer with 1+ years of experience, specializing in full-stack web development and system design</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kumarsantosh3914&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,10 +9,81 @@
   </a>
 </p>
 
-- 🌱 I'm currently learning **Next.js**
-- 📝 I regularly write articles on [Hashnode](https://santosh15.hashnode.dev/)
+## 👨‍💻 About Me
 
----
+- 🔭 Currently working as a Software Development Engineer
+- 🌱 Learning **Next.js** and exploring system design patterns
+- 📝 Technical blogger at [Hashnode](https://santosh15.hashnode.dev/)
+- 💬 Ask me about React, JavaScript, Java, and System Design
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/santosh-kumar-399282222)
+
+## 🚀 Featured Projects
+
+### 1. Airbnb Clone
+- **Tech Stack:** TypeScript, Next.js, Go, PostgreSQL
+- **Description:** A full-stack Airbnb clone with authentication, property listing, booking system
+- **Live Demo:** [airbnb-dev](https://github.com/kumarsantosh3914/airbnb-dev)
+
+### 2. Slack Clone
+- **Tech Stack:** JavaScript, React, Firebase
+- **Description:** Real-time messaging application with workspace functionality
+- **Repository:** [Slack](https://github.com/kumarsantosh3914/Slack)
+
+### 3. FullStack Chatbot
+- **Tech Stack:** TypeScript, React, SCSS
+- **Description:** AI-powered chatbot with natural language processing
+- **Repository:** [FullStackChatbot](https://github.com/kumarsantosh3914/FullStackChatbot)
+
+### 4. LeetCode Backend
+- **Tech Stack:** TypeScript, Node.js
+- **Description:** Backend system for coding platform with code execution
+- **Repository:** [leetcode-backend](https://github.com/kumarsantosh3914/leetcode-backend)
+
+## 💼 Professional Experience
+
+### Software Development Engineer (1+ years)
+- Developed scalable web applications using React.js and Node.js
+- Implemented microservices architecture for improved system scalability
+- Worked with RESTful APIs and database optimization
+- Contributed to code reviews and technical documentation
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumarsantosh3914&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsantosh3914&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🛠️ Technical Skills
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Bootstrap
+- TypeScript
+
+### Backend
+- Node.js, Express.js
+- Go
+- RESTful APIs
+- Java
+
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Tools & Others
+- Git, GitHub
+- Docker
+- AWS Basics
+- System Design
+- Data Structures & Algorithms
+
+## 📝 Latest Blog Posts
+<!-- You can add a dynamic list of your recent blog posts here -->
+1. [Understanding System Design](https://santosh15.hashnode.dev/)
+2. [Web Development Best Practices](https://santosh15.hashnode.dev/)
 
 ## 🌐 Connect with me:
 <p align="center">
@@ -23,14 +93,18 @@
   <a href="https://linkedin.com/in/santosh-kumar-399282222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/_i_santosh_kr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://santosh15.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
+
+## 📈 Coding Profiles
+<p align="center">
+  <a href="https://www.leetcode.com/santosh15" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/santoshkumar45" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://www.leetcode.com/santosh15" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/santoshkumar15novmth" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
@@ -39,53 +113,6 @@
 
 ---
 
-## 🛠️ Languages and Tools:
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
-  <a href="https://golang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarsantosh3914&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsantosh3914" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsantosh3914&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <i>Let's connect and build something amazing together!</i>
 </p>

@@ -1,0 +1,63 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030B16"/>
+      <stop offset="0.5" stop-color="#0A1526"/>
+      <stop offset="1" stop-color="#050B13"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD089"/>
+      <stop offset="1" stop-color="#C9892B"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" rx="18" fill="url(#bg)"/>
+
+  <g opacity="0.8">
+    <circle cx="120" cy="100" r="2" fill="#8FCBFF"/>
+    <circle cx="300" cy="180" r="2.5" fill="#8FCBFF"/>
+    <circle cx="470" cy="120" r="2" fill="#8FCBFF"/>
+    <circle cx="900" cy="110" r="2" fill="#8FCBFF"/>
+    <circle cx="1220" cy="150" r="2.5" fill="#8FCBFF"/>
+    <circle cx="1410" cy="90" r="2" fill="#8FCBFF"/>
+    <circle cx="1485" cy="220" r="2.5" fill="#8FCBFF"/>
+    <circle cx="1360" cy="300" r="2" fill="#8FCBFF"/>
+  </g>
+
+  <g opacity="0.25" filter="url(#blur)">
+    <circle cx="1220" cy="230" r="90" fill="#FFD89A"/>
+    <circle cx="1190" cy="270" r="120" fill="#1A2A40"/>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="420" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.8"/>
+
+  <text x="90" y="175" fill="#E7ECF4" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-2">
+    Santosh Kumar
+  </text>
+
+  <text x="90" y="245" fill="#A8B3C5" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="5">
+    BACKEND ENGINEER • DISTRIBUTED SYSTEMS • AGENTIC AI
+  </text>
+
+  <g fill="#89D0FF" font-family="Consolas, Monaco, monospace" font-size="28" font-weight="600">
+    <text x="90" y="305">NestJS</text>
+    <text x="230" y="305">·</text>
+    <text x="260" y="305">TypeScript</text>
+    <text x="480" y="305">·</text>
+    <text x="510" y="305">BullMQ</text>
+    <text x="670" y="305">·</text>
+    <text x="700" y="305">Redis</text>
+    <text x="845" y="305">·</text>
+    <text x="875" y="305">AWS</text>
+  </g>
+
+  <g opacity="0.25">
+    <circle cx="1350" cy="90" r="5" fill="#8FCBFF"/>
+    <circle cx="1480" cy="160" r="4" fill="#8FCBFF"/>
+    <circle cx="1060" cy="120" r="3" fill="#8FCBFF"/>
+    <circle cx="1230" cy="330" r="4" fill="#8FCBFF"/>
+  </g>
+</svg>
